@@ -25,6 +25,12 @@ Hey, i'm Luke a software developer from the UK. Check out my blog at [lukeniland
 
 ## Coding Stats
 <!--START_SECTION:waka-->
+
+```text
+C#           44 mins         █████████░░░░░░░░░░░░░░░░   35.57 %
+Other        33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
+```
+
 <!--END_SECTION:waka-->
 
 ## &#x1f4c8; GitHub Stats
