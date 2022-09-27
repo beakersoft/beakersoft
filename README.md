@@ -23,7 +23,7 @@ Hey, i'm Luke a software developer from the UK. Check out my blog at [lukeniland
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-## Coding Stats
+## 📊 Monthly Coding Stats
 <!--START_SECTION:waka-->
 
 ```text
