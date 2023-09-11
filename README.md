@@ -27,11 +27,11 @@ Hey, i'm Luke a software developer from the UK. Check out my blog at [lukeniland
 <!--START_SECTION:waka-->
 
 ```txt
-C#           8 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   28.30 %
-JavaScript   6 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.70 %
-Vue.js       5 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
-Terraform    1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-SWIG         1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+C#           7 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
+JavaScript   6 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.09 %
+Vue.js       5 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
+Terraform    1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+SWIG         1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->
