@@ -27,11 +27,11 @@ Hey, i'm Luke a software developer from the UK. Check out my blog at [lukeniland
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           12 hrs 8 mins   ████████████▓░░░░░░░░░░░░   50.41 %
-JavaScript       2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-XML              1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-C#               1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Prolog           1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Vue.js           12 hrs 8 mins   ████████████▓░░░░░░░░░░░░   50.86 %
+XML              1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+JavaScript       1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+C#               1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Prolog           1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 ```
 
 <!--END_SECTION:waka-->
