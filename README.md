@@ -27,11 +27,11 @@ Hey, i'm Luke a software developer from the UK. Check out my blog at [lukeniland
 <!--START_SECTION:waka-->
 
 ```txt
-C#           14 hrs 58 mins  ██████████▒░░░░░░░░░░░░░░   41.02 %
-Binary       7 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.65 %
-CSV          3 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-JavaScript   2 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-JSON         2 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+C#           14 hrs 34 mins  ██████████░░░░░░░░░░░░░░░   39.79 %
+Binary       7 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.72 %
+CSV          3 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+JavaScript   2 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+JSON         2 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
 ```
 
 <!--END_SECTION:waka-->
