@@ -27,11 +27,11 @@ Hey, i'm Luke a software developer from the UK. Check out my blog at [lukeniland
 <!--START_SECTION:waka-->
 
 ```txt
-C#          9 hrs 44 mins   █████████████░░░░░░░░░░░░   51.80 %
-Binary      3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
-XML         1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-Other       1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-Terraform   1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+C#          9 hrs 22 mins   █████████████░░░░░░░░░░░░   52.63 %
+Binary      3 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   20.31 %
+XML         1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+Other       1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Terraform   1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
 
 <!--END_SECTION:waka-->
